@@ -2,7 +2,7 @@
 #include <stdio.h>
 
 int main() {
-    system("bash /etc/tinyaffetch/tinyaffetch");
+    system("bash /etc/tinyaffetch/tinyaffetch-run");
     return 0;
 
 }
